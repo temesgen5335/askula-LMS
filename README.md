@@ -1,9 +1,10 @@
-# askula-LMS
+# Askula-LMS
 Askuala educational support system is a learning management system that supports the teaching learning process of Addis Ababa university. This project is done via MERN-stack , React .js on front-end, Express and Node .js on back-end and MongoDB for the database.
-Getting Started with Create React App
+
+# Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
-Available Scripts
+# Available Scripts
 In the project directory, you can run:
 
 npm start
